@@ -12,11 +12,12 @@
 
 ## Demo
 
-(https://i.imgur.com/R1g2wvC.png)
+![IMG1](https://i.imgur.com/R1g2wvC.png)
 
- (https://user-images.githubusercontent.com/25816548/135860817-c1b18fe2-1794-4a20-9c9d-cd067495a7d0.png)
+![IMG2](https://user-images.githubusercontent.com/25816548/135861369-fd8a8672-b748-42f4-9fa0-3f1394ac8b9c.png)
+
  
-## Overview![IMG2]
+## Overview
 
 This is a Flask web app which predicts fare of Flight ticket.
 
